@@ -32,7 +32,7 @@ The goal was to predict whether a Falcon 9 booster would successfully land or no
 
 ## 📈 Results
 
-- Achieved up to **X% accuracy** in predicting launch outcomes using [best model].
+- Achieved up to **83% accuracy** in predicting launch outcomes across multiple models.
 - Identified key features influencing launch success, such as **payload mass**, **launch site**, and **orbit type**.
 
 ## ✅ Conclusion
